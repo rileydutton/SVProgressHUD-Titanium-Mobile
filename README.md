@@ -10,7 +10,7 @@ few basic commands to get a great-looking progress indicator.
 
 **These are instructions for those of you who just want to use the library without modifying it in your own project.**
 
-Create a new folder called `modules` in the root directory of your Titanium Project. Create a subfolder of the `modules` directory called `ios`. Download and extract `svprojecthud-0.1.zip` into that directory. Refer to the Usage section below for information on actually using the library in your application.
+Create a new folder called `modules` in the root directory of your Titanium Project. Create a subfolder of the `modules` directory called `ios`. Download and extract [svprojecthud-0.1.zip](https://github.com/downloads/rileydutton/SVProgressHUD-Titanium-Mobile/com.svprogresshud-iphone-0.1.zip) into that directory. Refer to the Usage section below for information on actually using the library in your application.
 
 **Note:** I have not yet been able to figure out how to make this work with Titanium Mobile's module asset packaging, so right now the icons for the success and error status messages are missing. Hopefully this will be fixed soon. Alternatively, if anyone else out there knows how I should go about implementing that, please let me know :-).
 
