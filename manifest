@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: SVProgressHUD
+author: Riley Dutton
+license: MIT License
+copyright: Copyright (c) 2010 by Riley Dutton
+
+
+# these should not be edited
+name: svprogresshud
+moduleid: com.svprogresshud
+guid: 7e41905e-8e7d-4c7f-bfee-49b0be0e3857
+platform: iphone
+minsdk: 1.6.2
