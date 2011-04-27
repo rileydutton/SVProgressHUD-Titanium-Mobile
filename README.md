@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple port of the SVProgressHUD iOS library to Titanium Mobile. 
+This is a simple port of the [SVProgressHUD iOS library](https://github.com/samvermette/SVProgressHUD) to Titanium Mobile. 
 You can simply include it as a module in your Titanium project, and use a 
 few basic commands to get a great-looking progress indicator.
 
@@ -14,7 +14,7 @@ Create a new folder called `modules` in the root directory of your Titanium Proj
 
 ## Installation (Source)
 
-Clone the git repository or download it as a zip/tar file. You should then be able to open the `xcodeproj` and compile the project. Refer to (the module documentation)[http://wiki.appcelerator.org/display/guides/Module+Developer+Guide+for+iOS] if you need more information on how to create/edit/compile/distribute Titanium Mobile modules.
+Clone the git repository or download it as a zip/tar file. You should then be able to open the `xcodeproj` and compile the project. Refer to [the module documentation](http://wiki.appcelerator.org/display/guides/Module+Developer+Guide+for+iOS) if you need more information on how to create/edit/compile/distribute Titanium Mobile modules.
 
 ## Usage
 
@@ -65,4 +65,31 @@ Clone the git repository or download it as a zip/tar file. You should then be ab
 
 ## License
 
-This work is licensed under an MIT License. Please note, however, that like the original SVProgressHUD this repository contains two images from the excellent Glyphish icon set. They are licensed under their own terms, visit the Glyphish website for more information about them.
+This work is licensed under an MIT License. Please note, however, that like the original SVProgressHUD this repository contains two images from the excellent [Glyphish icon set](http://glyphish.com/). They are licensed under their own terms, visit the Glyphish website for more information about them.
+
+Copyright (c) 2011 Riley Dutton
+
+Permission is hereby granted, free of charge, to any person
+obtaining a copy of this software and associated documentation
+files (the "Software"), to deal in the Software without
+restriction, including without limitation the rights to use,
+copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the
+Software is furnished to do so, subject to the following
+conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES
+OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+A different license may apply to other ressources included in this package, 
+including Joseph Wain's Glyphish Icons. Please consult their 
+respective headers for the terms of their individual licenses.
