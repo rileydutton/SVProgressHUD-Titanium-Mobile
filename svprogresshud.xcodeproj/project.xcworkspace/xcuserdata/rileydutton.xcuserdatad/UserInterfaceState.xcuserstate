@@ -4549,8 +4549,8 @@
 				</dict>
 			</array>
 		</dict>
-		<real>325619102.58326799</real>
-		<string>{855, 1377}</string>
+		<real>325627699.64255202</real>
+		<string>{0, 1477}</string>
 		<string>{552, 17}</string>
 		<dict>
 			<key>$class</key>
@@ -4597,7 +4597,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>325619086.92710298</real>
+		<real>325627700.39456898</real>
 		<string>{0, 164}</string>
 		<string>{0, 0}</string>
 		<dict>
@@ -4645,9 +4645,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>325619106.33291101</real>
-		<string>{0, 241}</string>
-		<string>{201, 0}</string>
+		<real>325627714.51168698</real>
+		<string>{0, 188}</string>
+		<string>{90, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4741,9 +4741,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>325623940.61865997</real>
-		<string>{0, 1378}</string>
-		<string>{750, 0}</string>
+		<real>325627718.938878</real>
+		<string>{0, 1330}</string>
+		<string>{90, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4789,7 +4789,7 @@
 				</dict>
 			</array>
 		</dict>
-		<real>325619091.439152</real>
+		<real>325627696.81837499</real>
 		<string>{0, 246}</string>
 		<dict>
 			<key>$class</key>
@@ -4836,9 +4836,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>325619168.95935798</real>
-		<string>{0, 635}</string>
-		<string>{589, 0}</string>
+		<real>325627704.01815599</real>
+		<string>{0, 582}</string>
+		<string>{95, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -4979,9 +4979,9 @@
 				</dict>
 			</array>
 		</dict>
-		<real>325619104.36513698</real>
-		<string>{0, 247}</string>
-		<string>{241, 0}</string>
+		<real>325627707.54339498</real>
+		<string>{0, 194}</string>
+		<string>{95, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5746,7 +5746,7 @@
 				<integer>527</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/svprogresshud.xcodeproj/</string>
+		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudView.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5764,7 +5764,7 @@
 				<integer>529</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudView.m</string>
+		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudView.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5782,7 +5782,7 @@
 				<integer>531</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/SVProgressHUD.m</string>
+		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudViewProxy.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5800,7 +5800,7 @@
 				<integer>533</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/SVProgressHUD.h</string>
+		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudViewProxy.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5818,7 +5818,7 @@
 				<integer>535</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudViewProxy.m</string>
+		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudModuleAssets.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5836,7 +5836,7 @@
 				<integer>537</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudView.h</string>
+		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudModule.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5854,7 +5854,7 @@
 				<integer>539</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudViewProxy.h</string>
+		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudModule.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5872,7 +5872,7 @@
 				<integer>541</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudModule.m</string>
+		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/svprogresshud.xcodeproj/</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5890,7 +5890,7 @@
 				<integer>543</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudModule.h</string>
+		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/SVProgressHUD.m</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -5908,7 +5908,7 @@
 				<integer>545</integer>
 			</dict>
 		</dict>
-		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudModuleAssets.m</string>
+		<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/SVProgressHUD.h</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -7148,7 +7148,7 @@
 			<key>documentURL</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>527</integer>
+				<integer>541</integer>
 			</dict>
 			<key>selection</key>
 			<dict>
@@ -9499,7 +9499,7 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>756</integer>
+					<integer>757</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -9546,7 +9546,7 @@
 			<key>rootLayoutTreeNode</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>754</integer>
+				<integer>755</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -9572,7 +9572,7 @@
 			<key>parent</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>754</integer>
+				<integer>755</integer>
 			</dict>
 		</dict>
 		<dict>
@@ -9670,7 +9670,7 @@
 			<key>documentURL</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>108</integer>
+				<integer>754</integer>
 			</dict>
 			<key>timestamp</key>
 			<dict>
@@ -9682,12 +9682,21 @@
 			<key>$class</key>
 			<dict>
 				<key>CF$UID</key>
+				<integer>109</integer>
+			</dict>
+			<key>NS.string</key>
+			<string>file://localhost/Users/rileydutton/Dropbox/iphone/SVProgressHUDModule/svprogresshud/Classes/ComSvprogresshudView.m</string>
+		</dict>
+		<dict>
+			<key>$class</key>
+			<dict>
+				<key>CF$UID</key>
 				<integer>114</integer>
 			</dict>
 			<key>children</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>755</integer>
+				<integer>756</integer>
 			</dict>
 			<key>contentType</key>
 			<integer>0</integer>
@@ -9735,7 +9744,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>757</integer>
+					<integer>758</integer>
 				</dict>
 			</array>
 		</dict>
@@ -9756,7 +9765,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>758</integer>
+					<integer>759</integer>
 				</dict>
 			</array>
 		</dict>
@@ -9785,7 +9794,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>759</integer>
+					<integer>760</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -9807,7 +9816,7 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>760</integer>
+					<integer>761</integer>
 				</dict>
 			</array>
 		</dict>
@@ -9856,15 +9865,15 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>761</integer>
+					<integer>762</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>767</integer>
+					<integer>768</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>771</integer>
+					<integer>101</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -9899,7 +9908,7 @@
 			<key>IdentifierPath</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>762</integer>
+				<integer>763</integer>
 			</dict>
 			<key>IndexOfDocumentIdentifier</key>
 			<dict>
@@ -9917,15 +9926,15 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>763</integer>
-				</dict>
-				<dict>
-					<key>CF$UID</key>
 					<integer>764</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
 					<integer>765</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>766</integer>
 				</dict>
 			</array>
 		</dict>
@@ -9962,7 +9971,7 @@
 			<key>Identifier</key>
 			<dict>
 				<key>CF$UID</key>
-				<integer>766</integer>
+				<integer>767</integer>
 			</dict>
 		</dict>
 		<string>svprogresshud</string>
@@ -9995,11 +10004,11 @@
 			<array>
 				<dict>
 					<key>CF$UID</key>
-					<integer>768</integer>
+					<integer>769</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>769</integer>
+					<integer>770</integer>
 				</dict>
 				<dict>
 					<key>CF$UID</key>
@@ -10007,14 +10016,13 @@
 				</dict>
 				<dict>
 					<key>CF$UID</key>
-					<integer>770</integer>
+					<integer>771</integer>
 				</dict>
 			</array>
 		</dict>
-		<real>325623940.61926901</real>
-		<string>{0, 1378}</string>
-		<string>{750, 0}</string>
-		<string>-showHUD:</string>
+		<real>325627718.93951601</real>
+		<string>{0, 1330}</string>
+		<string>{90, 0}</string>
 		<dict>
 			<key>$class</key>
 			<dict>
@@ -11091,6 +11099,14 @@
 				<dict>
 					<key>CF$UID</key>
 					<integer>841</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>104</integer>
+				</dict>
+				<dict>
+					<key>CF$UID</key>
+					<integer>101</integer>
 				</dict>
 			</array>
 		</dict>
