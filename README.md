@@ -69,7 +69,8 @@ Clone the git repository or download it as a zip/tar file. You should then be ab
 
 This work is licensed under an MIT License. Please note, however, that like the original SVProgressHUD this repository contains two images from the excellent [Glyphish icon set](http://glyphish.com/). They are licensed under their own terms, visit the Glyphish website for more information about them.
 
-Copyright (c) 2011 Riley Dutton
+Original Code Copyright (c) 2011 Sam Vermette
+Modifications Copyright (c) 2011 Riley Dutton
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
