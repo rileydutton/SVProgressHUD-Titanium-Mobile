@@ -12,6 +12,8 @@ few basic commands to get a great-looking progress indicator.
 
 Create a new folder called `modules` in the root directory of your Titanium Project. Create a subfolder of the `modules` directory called `ios`. Download and extract `svprojecthud-0.1.zip` into that directory. Refer to the Usage section below for information on actually using the library in your application.
 
+**Note:** I have not yet been able to figure out how to make this work with Titanium Mobile's module asset packaging, so right now the icons for the success and error status messages are missing. Hopefully this will be fixed soon. Alternatively, if anyone else out there knows how I should go about implementing that, please let me know :-).
+
 ## Installation (Source)
 
 Clone the git repository or download it as a zip/tar file. You should then be able to open the `xcodeproj` and compile the project. Refer to [the module documentation](http://wiki.appcelerator.org/display/guides/Module+Developer+Guide+for+iOS) if you need more information on how to create/edit/compile/distribute Titanium Mobile modules.
